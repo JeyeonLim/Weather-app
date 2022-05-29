@@ -41,7 +41,12 @@ ul {
   font-weight: 400;
   position: relative;
   line-height: 1;
+  top: -30px;
 }
 li:first-letter {
   text-transform: capitalize;
+}
+.icon {
+  position: relative;
+  top: -20px;
 }
