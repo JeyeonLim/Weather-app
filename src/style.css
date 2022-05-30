@@ -34,19 +34,18 @@ body {
 .weather-temperature {
   color: #212121;
   font-weight: 400;
-  margin-left: 10px;
+
   font-weight: 700;
   font-size: 80px;
   line-height: 1;
 }
+
 .temperature-units {
   display: inline-block;
   color: #212121;
   font-size: 28px;
-  line-height: 36px;
   font-weight: 400;
   position: relative;
-  line-height: 1;
   top: -30px;
 }
 li:first-letter {
