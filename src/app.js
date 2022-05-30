@@ -53,7 +53,7 @@ function citySubmit(event) {
   search(cityElement.value);
 }
 
-search("chicago");
+search("new york");
 
 let form = document.querySelector("#search-form");
 form.addEventListener("submit", citySubmit);
