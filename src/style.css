@@ -40,6 +40,7 @@ body {
   line-height: 1;
 }
 .temperature-units {
+  display: inline-block;
   color: #212121;
   font-size: 28px;
   line-height: 36px;
