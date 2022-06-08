@@ -58,12 +58,14 @@ li:first-letter {
 }
 
 .icon-temp {
+  position: relative;
+  right: 20px;
   white-space: nowrap;
 }
 .humidity-wind {
   position: relative;
   top: 5px;
-  right: -20px;
+  right: -80px;
 }
 
 ul li strong {
