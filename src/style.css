@@ -34,10 +34,11 @@ body {
 .weather-temperature {
   color: #212121;
   font-weight: 400;
-
   font-weight: 700;
-  font-size: 80px;
+  font-size: 60px;
   line-height: 1;
+  position: relative;
+  top: -5px;
 }
 
 .temperature-units {
@@ -46,7 +47,7 @@ body {
   font-size: 28px;
   font-weight: 400;
   position: relative;
-  top: -30px;
+  top: -25px;
 }
 li:first-letter {
   text-transform: capitalize;
@@ -61,7 +62,7 @@ li:first-letter {
 }
 .humidity-wind {
   position: relative;
-  top: 20px;
+  top: 5px;
   right: -20px;
 }
 
@@ -88,7 +89,7 @@ small {
 .forecast-temp {
   white-space: nowrap;
   font-style: normal;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.5;
   color: #f65282;
 }
