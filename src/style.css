@@ -74,3 +74,23 @@ small {
   position: relative;
   top: 20px;
 }
+.weather-forecast {
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  img
+  
+  color: rgba(39, 33, 66, 0.4);
+}
+
+.forecast-temp{
+  font-style: normal;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #f65282;
+    
+  }
+.forecast-temp-min {
+  margin-left: 5px;
+  opacity: .6;
+}
