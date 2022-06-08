@@ -56,6 +56,9 @@ li:first-letter {
   top: -20px;
 }
 
+.icon-temp {
+  white-space: nowrap;
+}
 .humidity-wind {
   position: relative;
   top: 20px;
@@ -83,16 +86,12 @@ small {
 }
 
 .forecast-temp {
+  white-space: nowrap;
   font-style: normal;
   font-size: 15px;
   line-height: 1.5;
   color: #f65282;
 }
 .forecast-temp-min {
-  margin-left: 5px;
   opacity: 0.6;
-}
-img {
-  display: block;
-  margin: 0 auto;
 }
